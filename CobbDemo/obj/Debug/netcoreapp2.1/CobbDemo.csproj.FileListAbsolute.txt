@@ -1,0 +1,11 @@
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\bin\Debug\netcoreapp2.1\CobbDemo.deps.json
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\bin\Debug\netcoreapp2.1\CobbDemo.runtimeconfig.json
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\bin\Debug\netcoreapp2.1\CobbDemo.runtimeconfig.dev.json
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\bin\Debug\netcoreapp2.1\CobbDemo.dll
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\bin\Debug\netcoreapp2.1\CobbDemo.pdb
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\obj\Debug\netcoreapp2.1\CobbDemo.csprojAssemblyReference.cache
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\obj\Debug\netcoreapp2.1\CobbDemo.csproj.CoreCompileInputs.cache
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\obj\Debug\netcoreapp2.1\CobbDemo.AssemblyInfoInputs.cache
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\obj\Debug\netcoreapp2.1\CobbDemo.AssemblyInfo.cs
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\obj\Debug\netcoreapp2.1\CobbDemo.dll
+C:\Users\Voxenn\source\repos\CobbDemo\CobbDemo\obj\Debug\netcoreapp2.1\CobbDemo.pdb
